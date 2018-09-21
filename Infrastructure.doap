@@ -1,0 +1,23 @@
+<Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:gnome="http://api.gnome.org/doap-extensions#"
+         xmlns="http://usefulinc.com/ns/doap#">
+
+  <name xml:lang="en">infrastructure</name>
+  <description xml:lang="en">Meta project to collect GNOME Infrastructure team issues</description>
+  <shortdesc xml:lang="en">Meta project to collect GNOME Infrastructure team issues</shortdesc>
+  <homepage rdf:resource="https://wiki.gnome.org/Sysadmin/Contact" />
+  <mailing-list rdf:resource="https://mail.gnome.org/mailman/listinfo/gnome-infrastructure" />
+  <category rdf:resource="http://api.gnome.org/doap-extensions#infrastructure" />
+  <bug-database rdf:resource="https://gitlab.gnome.org/Infrastructure/Infrastructure/issues" />
+  <programming-language>None</programming-language>
+
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>GNOME sysadmin team</foaf:name>
+      <foaf:mbox rdf:resource="mailto:gnome-sysadmin@gnome.org" />
+      <gnome:userid>root</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+</Project>
