@@ -10,4 +10,4 @@ Main point of contact name and surname, e-mail (possibly pointing to a request t
 of any sort in case the main contact is not available.
 
 /label ~newmirror
-/cc averi
+/cc @averi
