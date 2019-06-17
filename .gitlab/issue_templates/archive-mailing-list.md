@@ -10,4 +10,4 @@ Please remember we only remove the list information, subscriptions and NOT the a
 themselves which are kept around for historical reasons.
 
 /label ~archiveml
-/cc averi
+/cc @averi
