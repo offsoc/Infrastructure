@@ -24,6 +24,11 @@ Mailing lists, Planet, Mirrorbrain, Openshift, Build services)
 (Paste any relevant logs - please use code blocks (```) to format console output,
 logs, and code as it's very hard to read otherwise.)
 
+If you believe this issue should be marked as confidential due to the information
+it contains (IPs, your full name or other personal details), please un-comment the last
+line of this template.
+
 
 /label ~bug ~reproduced ~needs-investigation
 /cc @averi @barthalion
+#/confidential
