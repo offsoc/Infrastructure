@@ -26,4 +26,4 @@ logs, and code as it's very hard to read otherwise.)
 
 
 /label ~bug ~reproduced ~needs-investigation
-/cc @averi
+/cc @averi @barthalion
