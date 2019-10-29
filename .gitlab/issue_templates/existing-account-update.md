@@ -2,8 +2,8 @@
 
 Please provide the following information:
 
-Your full name
-Your existing account name
+1. Your full name
+1. Your existing account name
 
 ### Your request
 
