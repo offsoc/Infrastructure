@@ -21,5 +21,5 @@ What kind of action do you need from the Accounts Team?
    on this issue)
 
 /label ~account-update
-/cc averi
+/cc @averi
 /confidential

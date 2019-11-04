@@ -13,5 +13,5 @@ https://wiki.gnome.org/AccountsTeam/SSHKeyGuidelines. If your key does not match
 your accounts application will be significantly delayed.
 
 /label ~new-account
-/cc averi
+/cc @averi
 /confidential
