@@ -16,7 +16,7 @@ Once done, please login with your username and the password you just set at the 
 https://account.gnome.org
 
 You will then be able to manage your account including adding SSH keys which will then be automatically
-syncronized against GitLab. Please also remember your GNOME Account allows you to login to all the hosted services
+syncronized against GitLab. Please also remember your GNOME Account allows you to login against all the hosted services
 including Discourse, Events website, Pastebin, Nextcloud, Gitlab etc.
 
 Note: We require RSA (4096 preferred). Use `ssh-keygen -t rsa -b 4096`. Please make sure your key matches all 
