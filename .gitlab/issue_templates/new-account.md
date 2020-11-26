@@ -19,8 +19,8 @@ You will then be able to manage your account including adding SSH keys which wil
 syncronized against GitLab. Please also remember your GNOME Account allows you to login against all the hosted services
 including Discourse, Events website, Pastebin, Nextcloud, Gitlab etc.
 
-Note: We require RSA (4096 preferred). Use `ssh-keygen -t rsa -b 4096`. Please make sure your key matches all 
-the requirements listed at https://wiki.gnome.org/Infrastructure/SSHKeyGuidelines before adding it. 
+Note: We require RSA (4096 preferred). Use `ssh-keygen -t rsa -b 4096`. Please make sure your key matches all
+the requirements listed at https://wiki.gnome.org/Infrastructure/SSHKeyGuidelines before adding it.
 
 /label ~new-account
 /cc @averi
