@@ -4,7 +4,7 @@ Please provide the following information:
 
 1. Your full name
 2. Permanent email address
-3. Requested account name. Please note nicknames are NOT allowed (https://wiki.gnome.org/AccountsTeam/AccountNamePolicy)
+3. Requested account name. Please note nicknames are NOT allowed (https://wiki.gnome.org/Infrastructure/AccountNamePolicy)
 4. Explanation why you think you should get an account
 
 Once your account has been created, you should be able to reset your GNOME Account password via:
@@ -20,7 +20,7 @@ syncronized against GitLab. Please also remember your GNOME Account allows you t
 including Discourse, Events website, Pastebin, Nextcloud, Gitlab etc.
 
 Note: We require RSA (4096 preferred). Use `ssh-keygen -t rsa -b 4096`. Please make sure your key matches all 
-the requirements listed at https://wiki.gnome.org/AccountsTeam/SSHKeyGuidelines before adding it. 
+the requirements listed at https://wiki.gnome.org/Infrastructure/SSHKeyGuidelines before adding it. 
 
 /label ~new-account
 /cc @averi
