@@ -23,7 +23,7 @@
         }
       },
       {
-        "email_update": {
+        "update_email": {
           "args": "None"
         }
       }
