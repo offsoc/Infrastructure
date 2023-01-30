@@ -5,12 +5,6 @@
   {
     "action": [
       {
-        "new_account": {
-          "args_key": "module",
-          "args_value": "${module_name}"
-        }
-      },
-      {
         "git_access": {
           "args_key": "module",
           "args_value": "${module_name}"
