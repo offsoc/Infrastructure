@@ -7,13 +7,13 @@
       {
         "git_access": {
           "args_key": "module",
-          "args_value": "${module_name}"
+          "args_value": "$module_name"
         }
       },
       {
         "maint_access": {
           "args_key": "module",
-          "args_value": "${module_name}"
+          "args_value": "$module_name"
         }
       },
       {
@@ -23,5 +23,9 @@
       }
     ]
   }
+}
+
+PLEASE ONLY MODIFY THE JSON BELOW, THE ABOVE TEXT IS
+IGNORED BY AUTOMATION AND MERELY USED AS DOCUMENTATION.
 ;;;
-{"action": "${action_name}", "module": "${module_name}"}
+{"action": "$action_name", "module": "$module_name"}
